@@ -1,26 +1,33 @@
 # Terms of Service
 
-_Effective Date_:
+**Effective Date:** 01/09/2025 
+**Last Updated:** 01/02/2025
+
+Welcome to NexAris Digital Systems ("NexArisDS," "we," "our," or "us"). These Terms of Service ("Terms") govern your use of our services, including websites, forums, applications, and any related tools or platforms.  
+
+By accessing or using our services, you agree to comply with these Terms. If you do not agree, you must discontinue use of our services immediately.  
 
 ---
 
 <details>
 <summary><strong>1. Acceptance of Terms</strong></summary>
 
-By accessing or using the services provided by NexAris Digital Systems ("NexArisDS", "we", "our", or "us"), including but not limited to our websites, platforms, applications, forums, and any related services, you agree to comply with and be bound by these Terms of Service ("Terms"). 
+By accessing or using NexArisDS services, you agree to:  
+- Be bound by these Terms and all related policies.  
+- Provide accurate, complete, and current information as required for certain services.  
 
-If you do not agree to these Terms, **do not use our services**.
+If you do not agree with any part of these Terms, you are prohibited from using our services.  
 
 </details>
 
 ---
 
 <details>
-<summary><strong>2. Modifications to the Terms</strong></summary>
+<summary><strong>2. Changes to Terms</strong></summary>
 
-We reserve the right to update or modify these Terms at any time, with or without notice. Changes will be posted on this page and are effective immediately upon posting. **Your continued use of the services constitutes acceptance of those changes.**
+NexArisDS reserves the right to modify these Terms at any time. Changes will be posted on this page and take effect immediately upon publication.  
 
-**Your Responsibility:** Review these Terms periodically to stay informed of updates.
+**User Responsibility:** You are responsible for reviewing these Terms periodically. Continued use of our services constitutes your acceptance of any modifications.  
 
 </details>
 
@@ -29,14 +36,15 @@ We reserve the right to update or modify these Terms at any time, with or withou
 <details>
 <summary><strong>3. Eligibility and Account Registration</strong></summary>
 
-### **Eligibility**
-- You must be at least **13 years old** to use our services. By using our services, you represent and warrant that you meet this age requirement.  
-- If you are under 13, parental consent may be required for certain services.  
+### Eligibility  
+- You must be at least **13 years old** to use our services. Some features may have additional age or legal requirements.  
 
-### **Account Creation**
-- **Accurate Information:** You agree to provide accurate, complete, and current information during registration.  
-- **Responsibility:** You are responsible for maintaining the confidentiality of your account credentials.  
-- **Notify Us:** Report unauthorized account access immediately through our [Helpdesk](https://helpdesk.nexarisds.org).  
+### Account Creation  
+- Provide accurate and truthful information during registration.  
+- Keep your account credentials confidential and secure.  
+- Notify us immediately of unauthorized access through our [Helpdesk](https://helpdesk.nexarisds.org).  
+
+NexArisDS reserves the right to terminate or suspend accounts that violate these Terms.  
 
 </details>
 
@@ -45,44 +53,66 @@ We reserve the right to update or modify these Terms at any time, with or withou
 <details>
 <summary><strong>4. User-Generated Content</strong></summary>
 
-### **Ownership and Licensing**
-- Users retain ownership of content they create.  
-- By posting, you grant NexArisDS a **non-exclusive, worldwide, royalty-free license** to use, modify, display, and distribute content for service-related purposes.
+### Ownership and Licensing  
+- Users retain ownership of their content but grant NexArisDS a **non-exclusive, worldwide, royalty-free license** to use, display, and distribute the content for service purposes.  
 
-### **Prohibited Content**
-You may not upload, post, or transmit any content that:
-- Is defamatory, offensive, or discriminatory.
-- Is obscene, sexually explicit, or violates laws.
-- Violates intellectual property, privacy, or publicity rights.
+### Prohibited Content  
+Users must not upload or share content that:  
+- Is defamatory, discriminatory, or promotes harm.  
+- Violates privacy, intellectual property, or legal rights.  
+- Contains explicit, harmful, or unsafe material.  
 
-### **Moderation**
-NexArisDS reserves the right to:
-- Monitor content on our services.
-- Modify or remove content that violates these Terms.
+### Moderation  
+NexArisDS reserves the right to:  
+- Monitor and remove content that violates these Terms.  
+- Suspend or terminate users responsible for such violations.  
 
 </details>
 
 ---
 
-<details>
-<summary><strong>5. Advertising Standards</strong></summary>
 
-- **Honesty Required:** All advertisements must comply with our guidelines, prohibiting misleading, inappropriate, or unlawful content.  
-- **Clear Disclosures:** Sponsored content or affiliate links must be clearly disclosed to users.  
-- NexArisDS reserves the right to remove ads that violate these standards.
+<details>  
+<summary><strong>5. Advertising and Monetization</strong></summary>  
 
-</details>
+### **Compliance Requirements**  
+- All advertising and monetization activities on NexAris Digital Systems ("NexArisDS") must adhere to:  
+  1. Our [Advertising Standards](https://docs.nexarisds.org/docs/Legal/advertising-standards).  
+  2. These Terms of Service.  
+- Advertisers and content creators are responsible for ensuring that their ads, sponsorships, or monetization activities do not violate any applicable laws or regulations.  
+
+### **Advertising Standards Overview**  
+- Our Advertising Standards explicitly prohibit:  
+  - Misleading, inappropriate, or unsafe content.  
+  - Content promoting illegal or NSFW material.  
+  - Attempts to bypass NexArisDS's filters or guidelines.  
+- Sponsored content or affiliate links must be clearly disclosed.  
+
+### **Monetization Opportunities**  
+- Eligible users may participate in monetization programs, including advertisements and sponsorships, provided they comply with NexArisDS's policies and the Advertising Standards.  
+
+### **Violations and Enforcement**  
+- Non-compliance with the Advertising Standards or these Terms may result in:  
+  - Immediate removal of advertisements.  
+  - Suspension or revocation of advertising privileges.  
+  - Account suspension or permanent bans for repeat violations.  
+
+For full details on acceptable advertising practices, refer to the [Advertising Standards](https://docs.nexarisds.org/docs/Legal/advertising-standards).  
+
+</details>  
 
 ---
 
 <details>
 <summary><strong>6. Intellectual Property</strong></summary>
 
-### **NexArisDS Ownership**
-- All content, logos, software, and trademarks provided through our services are owned or licensed by NexArisDS.  
+### NexArisDS Ownership  
+All content, trademarks, and software are the intellectual property of NexArisDS or its licensors.  
 
-### **Usage Restrictions**
-- You may not reproduce, distribute, modify, or create derivative works of our intellectual property without prior written permission.
+### Restrictions  
+Users may not:  
+- Reproduce, distribute, or modify NexArisDS’s intellectual property without prior written consent.  
+- Engage in reverse engineering or unauthorized use of our software or services.  
 
 </details>
 
@@ -91,24 +121,25 @@ NexArisDS reserves the right to:
 <details>
 <summary><strong>7. Online Safety</strong></summary>
 
-- **User Responsibility:** Avoid sharing personal or sensitive information publicly.  
-- **Report Violations:** Notify us of any inappropriate behavior through our [Helpdesk](https://helpdesk.nexarisds.org).  
-- NexArisDS is not responsible for unsafe practices by users.
+### User Responsibility  
+- Protect your personal and sensitive information when interacting with others.  
+- Report any safety concerns or violations to our [Helpdesk](https://helpdesk.nexarisds.org).  
+
+### NexArisDS’s Role  
+We are not liable for unsafe practices or third-party interactions initiated by users on our platforms.  
 
 </details>
 
 ---
 
 <details>
-<summary><strong>8. License to and Restriction of Services</strong></summary>
+<summary><strong>8. License to Use Services</strong></summary>
 
-### **Grant of License**
-NexArisDS grants you a limited, non-transferable, revocable license to access and use our services.
+NexArisDS grants you a limited, non-transferable license to use our services.  
 
-### **Restrictions**
-You may not:
-- Reverse-engineer or disrupt our services.
-- Use our services for unlawful purposes.
+**Restrictions:**  
+- Do not disrupt or reverse-engineer our services.  
+- Avoid any unlawful or harmful activities while using our platforms.  
 
 </details>
 
@@ -117,17 +148,13 @@ You may not:
 <details>
 <summary><strong>9. NexArisDS’s Absolute Rights</strong></summary>
 
-### **Scope**
-NexArisDS reserves the **absolute right** to take appropriate action on any public or custom-made products and services provided by us if we believe they:
-- Were misused or used in violation of our Terms of Service.
-- Contribute to illegal, unethical, or harmful activities.
-
-### **Actions We May Take**
+### Scope  
+NexArisDS reserves the right to take action against misuse of any service or product, including:  
 - Revocation of product licenses.  
-- Suspension or termination of associated accounts.  
-- Legal action, if necessary, to prevent further misuse.  
+- Suspension or termination of accounts.  
+- Legal action for unethical or illegal activities.  
 
-These actions are **final** and exercised at our sole discretion.
+These decisions are final and made at NexArisDS’s sole discretion.  
 
 </details>
 
@@ -136,45 +163,37 @@ These actions are **final** and exercised at our sole discretion.
 <details>
 <summary><strong>10. Third-Party Services</strong></summary>
 
-- NexArisDS may integrate third-party services.  
-- We are not responsible for the content, policies, or functionality of these third parties.  
-- **Your Responsibility:** Use third-party services at your own risk.
+NexArisDS may integrate with third-party platforms or APIs.  
+
+- We are not liable for the functionality, content, or policies of these third parties.  
+- Users interact with third-party services at their own risk.  
 
 </details>
 
 ---
 
 <details>
-<summary><strong>11. Notifications and Appeals</strong></summary>
+<summary><strong>11. Moderation Notifications and Appeals</strong></summary>
 
+### Notifications  
+- NexArisDS will notify users of account suspensions or content removals whenever feasible.  
 
-### **Notification of Decisions**
-- We will make reasonable efforts to notify users about moderation decisions, including account suspensions or service restrictions.  
-
-### **Appeal Process**
-- Users may appeal decisions by contacting us through our [Helpdesk](https://helpdesk.nexarisds.org) or via our [Help & Safety site](https://moderation.nexarisds.org).  
-- Appeals will be reviewed as soon as possible on a case-by-case basis.  
-- NexArisDS reserves the right to uphold or overturn decisions at its sole discretion.  
-
+### Appeals  
+- Users may appeal decisions via our [Helpdesk](https://helpdesk.nexarisds.org).  
+- Appeals are reviewed case-by-case, and NexArisDS’s final decisions are binding.  
 
 </details>
 
 ---
 
 <details>
-<summary><strong>12. Consent to Electronic Communications</strong></summary>
+<summary><strong>12. Electronic Communications</strong></summary>
 
-By using our services, you consent to receive electronic communications from NexArisDS, including but not limited to:
-- **Marketing materials** (only if explicitly subscribed).  
-- **Moderation notifications**.  
-- **Service updates**.  
+By using NexArisDS services, you agree to receive electronic communications, such as:  
+- Moderation or policy updates.  
+- Marketing materials (if subscribed).  
 
-Emails sent to NexArisDS may be used for:
-- Marketing purposes.  
-- Moderation analytics.  
-- Service improvement.  
-
-**Important:** NexArisDS will **never sell your data** to third parties.
+**Data Use:** NexArisDS will never sell your data to third parties.  
 
 </details>
 
@@ -183,8 +202,9 @@ Emails sent to NexArisDS may be used for:
 <details>
 <summary><strong>13. Disclaimers; No Warranties</strong></summary>
 
-- **"As Is" Basis:** Our services are provided "as is" without any express or implied warranties.  
-- **No Guarantees:** We do not guarantee uninterrupted service, accuracy, or fitness for any specific purpose.
+NexArisDS services are provided "as is." We do not guarantee:  
+- Uninterrupted service or error-free operation.  
+- Compatibility with all user systems or software.  
 
 </details>
 
@@ -193,9 +213,9 @@ Emails sent to NexArisDS may be used for:
 <details>
 <summary><strong>14. Limitations of Liability</strong></summary>
 
-NexArisDS is not liable for:
-- Indirect, incidental, or consequential damages.
-- Data loss, revenue loss, or service disruptions.
+NexArisDS is not responsible for:  
+- Indirect or consequential damages.  
+- Loss of data, revenue, or service availability.  
 
 </details>
 
@@ -204,8 +224,9 @@ NexArisDS is not liable for:
 <details>
 <summary><strong>15. Indemnification</strong></summary>
 
-You agree to indemnify and hold harmless NexArisDS, its employees, and affiliates from:
-- Claims, damages, or liabilities arising from your service use or violations of these Terms.
+You agree to indemnify NexArisDS against claims arising from:  
+- Your use of our services.  
+- Violations of these Terms.  
 
 </details>
 
@@ -214,11 +235,11 @@ You agree to indemnify and hold harmless NexArisDS, its employees, and affiliate
 <details>
 <summary><strong>16. Governing Law and Dispute Resolution</strong></summary>
 
-### **Governing Law**
-These Terms are governed by the laws of the United States.
+### Governing Law  
+These Terms are governed by the laws of the United States.  
 
-### **Dispute Resolution**
-Disputes will be resolved through **binding arbitration** in New Orleans, Louisiana, in accordance with AAA rules.
+### Dispute Resolution  
+Disputes will be resolved through **binding arbitration** in New Orleans, Louisiana.  
 
 </details>
 
@@ -227,6 +248,6 @@ Disputes will be resolved through **binding arbitration** in New Orleans, Louisi
 <details>
 <summary><strong>17. Contact Information</strong></summary>
 
-For questions or concerns, reach out via our [Helpdesk](https://helpdesk.nexarisds.org).
+If you have questions or concerns about these Terms, contact us at: [Insert Contact Information].  
 
-</details>
+</details>  

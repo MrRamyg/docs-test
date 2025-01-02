@@ -1,6 +1,7 @@
 # Privacy Policy
 
-_Effective Date_:
+**Effective Date:** 01/09/2025 
+**Last Updated:** 01/02/2025
 
 Welcome to NexAris Digital Systems' Privacy Policy. This document outlines how we collect, use, store, and share your information. Please read through each section for a better understanding of how we handle your data.
 

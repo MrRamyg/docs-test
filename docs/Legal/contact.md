@@ -1,5 +1,6 @@
 # Contact NexAris Digital Systems
 
+
 At **NexAris Digital Systems**, we are always here to help and provide the support you need. Whether you have questions, require assistance, or want to discuss a project, we offer several ways to get in touch with our team.
 
 ## Our Support Channels
@@ -20,18 +21,11 @@ If you prefer to reach us via email, feel free to send your inquiries, issues, o
 
 Please provide as much detail as possible about your issue or request so we can assist you promptly.
 
-### Frequently Asked Questions (FAQs)
 
-Before reaching out, you may find the answer you're looking for in our **Frequently Asked Questions** section. We regularly update this page to provide solutions to common queries and troubleshooting tips.
-
-- **[FAQs](https://nexarisds.org/faqs)**: Visit our FAQ section for answers to general questions regarding our services and products.
 
 ## Business Hours
 
-Our support team is available during the following hours:
-
-- **Monday to Friday**: 9:00 AM – 6:00 PM (UTC)
-- **Saturday and Sunday**: Closed
+Our team is available 24/7
 
 While we do our best to respond to all inquiries as quickly as possible, please be aware that response times may vary depending on the volume of requests.
 
