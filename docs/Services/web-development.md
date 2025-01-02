@@ -1,3 +1,5 @@
+# Web Development
+
 ## Web Development Pricing
 
 At **NexAris Digital Systems**, we believe that **every website is unique**, and the cost of your web development project will depend on multiple factors. We offer **custom pricing** tailored specifically to your needs, ensuring that you only pay for what you require, without any hidden fees or unnecessary features. Whether you need a **simple informational site**, an **e-commerce platform**, or a **highly customized web application**, we’re here to bring your vision to life.
